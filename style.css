@@ -365,3 +365,7 @@ nav {
 .footer__link:hover{
     text-decoration: underline;
 }
+
+.adobeText {
+    text-align: left;
+}
