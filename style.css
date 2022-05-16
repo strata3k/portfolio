@@ -269,7 +269,7 @@ nav {
 }
 
 .service {
-    max-width: 500px;
+    max-width: 550px;
     margin: 0 auto;
 }
 
@@ -366,8 +366,7 @@ nav {
     text-decoration: underline;
 }
 
-.adobelogo {
-    background-image: url(img/adobe\ spark.jpg);
+.logo {
+ margin-left: auto;
+ margin-right: auto;
 }
-
-.ad
